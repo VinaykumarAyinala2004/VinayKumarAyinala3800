@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm VinayKumarAyinala3800</h1>
 <h3 align="center">A passionate Software Engineer and data science from India</h3>
 
-<img align="right" alt="coding" width = "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"
+<img align="right" alt="coding" width = "400" src = "https://github.com/VinayKumarAyinala3800/VinayKumarAyinala3800/blob/217d94ba99191280a898fbbcaf31d66258e8882f/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumarayinala3800&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumarayinala3800" /> </p>
 
