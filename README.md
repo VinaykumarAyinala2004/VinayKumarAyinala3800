@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vjssl3800@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1wiD3RSvEiGWCQSwzLlHk-VBmEsLgqt_o](https://drive.google.com/drive/folders/1wiD3RSvEiGWCQSwzLlHk-VBmEsLgqt_o)
+
 
 - ⚡ Fun fact **I am Funny**
 
