@@ -1,4 +1,4 @@
-![logo](https://github.com/VinayKumarAyinala3800/VinayKumarAyinala3800/blob/6eafda580992817bcbf69cbf4476b9c09dfc6cee/Blue%20and%20White%20Gradient%20Web%20Developer%20LinkedIn%20Article%20Cover%20Image.png)
+![logo](https://github.com/VinayKumarAyinala2004/VinayKumarAyinala2004/blob/6eafda580992817bcbf69cbf4476b9c09dfc6cee/Blue%20and%20White%20Gradient%20Web%20Developer%20LinkedIn%20Article%20Cover%20Image.png)
 
 <h1 align="center">Hi 👋, I'm VinayKumarAyinala3800</h1>
 <h3 align="center">A passionate Software Engineer and data science from India</h3>
