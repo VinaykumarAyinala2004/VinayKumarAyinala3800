@@ -1,7 +1,7 @@
 ![logo](https://github.com/VinayKumarAyinala2004/VinayKumarAyinala2004/blob/6eafda580992817bcbf69cbf4476b9c09dfc6cee/Blue%20and%20White%20Gradient%20Web%20Developer%20LinkedIn%20Article%20Cover%20Image.png)
 
-<h1 align="center">Hi 👋, I'm VinayKumarAyinala2004</h1>
-<h3 align="center">A passionate Software Engineer and data science from India</h3>
+<h1 align="center">Hi 👋, I'm Vinay Kumar Ayinala</h1>
+<h3 align="center">A passionate data science and machine learning from India</h3>
 
 <img align="right" alt="coding" width = "400" src = "https://github.com/VinayKumarAyinala3800/VinayKumarAyinala3800/blob/217d94ba99191280a898fbbcaf31d66258e8882f/python-2.gif">
 
